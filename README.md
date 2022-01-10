@@ -18,7 +18,7 @@ CV[<img align="left" alt="vkyprmr | Resume" width="26px" src="https://raw.github
  
 ### Connect with me:
 
-[<img align="left" alt="vkyprmr | LinkedIn" width="26px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/png/linkedin.png" />](https://www.linkedin.com/in/drashti-bhatt-24b698b0/)
+[<img align="left" alt="vkyprmr | LinkedIn" width="26px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/png/linkedin.png" />](https://www.linkedin.com/in/drashti-bhatt-24b698b0/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/drashtib) 
 
 
 
