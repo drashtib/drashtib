@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 ### You can find my Resume below:
 
 #### https://github.com/drashtib/drashtib/blob/main/CV_Drashti_Bhatt.pdf[resume]
+[<img align="left" alt="vkyprmr | Resume" width="26px" src="https://github.com/drashtib/drashtib/blob/main/CV_Drashti_Bhatt.pdf" />][resume]
