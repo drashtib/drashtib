@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 
 ### You can find my Resume below:
 
-###CV[<img align="left" alt="vkyprmr | Resume" width="26px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/png/PDF_32.png" />](https://github.com/drashtib/drashtib/blob/main/CV_Drashti_Bhatt.pdf)  
+####CV[<img align="left" alt="vkyprmr | Resume" width="26px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/png/PDF_32.png" />](https://github.com/drashtib/drashtib/blob/main/CV_Drashti_Bhatt.pdf)  
  
 ### Connect with me:
 <br />
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/drashtib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Drashti Bhatt/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/drashtib)8[Github]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Drashti Bhatt/)[LinkedIn]  
 
 <br />
