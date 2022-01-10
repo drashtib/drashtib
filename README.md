@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 CV[<img align="left" alt="vkyprmr | Resume" width="26px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/png/PDF_32.png" />](https://github.com/drashtib/drashtib/blob/main/CV_Drashti_Bhatt.pdf)  
  
 ### Connect with me:
-<br />
-[<img align="left" alt="vkyprmr | LinkedIn" width="26px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/png/linkedin.png" />](https://www.linkedin.com/in/drashti-bhatt-24b698b0/)[linkedin]
+
+[<img align="left" alt="vkyprmr | LinkedIn" width="26px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/png/linkedin.png" />](https://www.linkedin.com/in/drashti-bhatt-24b698b0/)
 
 
-<br />
+
