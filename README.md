@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 ### You can find my Resume below:
 
-##CV[<img align="left" alt="vkyprmr | Resume" width="26px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/png/PDF_32.png" />](https://github.com/drashtib/drashtib/blob/main/CV_Drashti_Bhatt.pdf)  
+###CV[<img align="left" alt="vkyprmr | Resume" width="26px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/png/PDF_32.png" />](https://github.com/drashtib/drashtib/blob/main/CV_Drashti_Bhatt.pdf)  
  
 ### Connect with me:
 <br />
